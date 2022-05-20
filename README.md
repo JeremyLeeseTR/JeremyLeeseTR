@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JeremyLeeseTR
-- 👀 I’m interested in AWS. Online Platforms. Database. Dev Ops. Java, Python, Yolol.
-- 🌱 I’m currently learning Yolol.
-- 💞️ I’m looking to collaborate on Migrating enterprise to AWS. Yolol projects for Starbase.
+- 👀 I’m interested in AWS. Online Platforms. Database. Dev Ops. Java, Python.
+- 🌱 I’m currently learning Go and Rust. Working on RDS and DdevOps AWS certifications.
+- 💞️ I’m looking to collaborate on Migrating enterprise to AWS.
 - 📫 How to reach me ...
 
 <!---
